@@ -1,0 +1,14 @@
+C:\Users\berkin.tatlisu\Desktop\newcore\gateway\obj\Debug\netcoreapp2.1\gateway.csprojAssemblyReference.cache
+C:\Users\berkin.tatlisu\Desktop\newcore\gateway\obj\Debug\netcoreapp2.1\gateway.csproj.CoreCompileInputs.cache
+C:\Users\berkin.tatlisu\Desktop\newcore\gateway\obj\Debug\netcoreapp2.1\gateway.RazorAssemblyInfo.cache
+C:\Users\berkin.tatlisu\Desktop\newcore\gateway\obj\Debug\netcoreapp2.1\gateway.RazorAssemblyInfo.cs
+C:\Users\berkin.tatlisu\Desktop\newcore\gateway\obj\Debug\netcoreapp2.1\gateway.AssemblyInfoInputs.cache
+C:\Users\berkin.tatlisu\Desktop\newcore\gateway\obj\Debug\netcoreapp2.1\gateway.AssemblyInfo.cs
+C:\Users\berkin.tatlisu\Desktop\newcore\gateway\bin\Debug\netcoreapp2.1\gateway.deps.json
+C:\Users\berkin.tatlisu\Desktop\newcore\gateway\bin\Debug\netcoreapp2.1\gateway.runtimeconfig.json
+C:\Users\berkin.tatlisu\Desktop\newcore\gateway\bin\Debug\netcoreapp2.1\gateway.runtimeconfig.dev.json
+C:\Users\berkin.tatlisu\Desktop\newcore\gateway\bin\Debug\netcoreapp2.1\gateway.dll
+C:\Users\berkin.tatlisu\Desktop\newcore\gateway\bin\Debug\netcoreapp2.1\gateway.pdb
+C:\Users\berkin.tatlisu\Desktop\newcore\gateway\obj\Debug\netcoreapp2.1\gateway.RazorTargetAssemblyInfo.cache
+C:\Users\berkin.tatlisu\Desktop\newcore\gateway\obj\Debug\netcoreapp2.1\gateway.dll
+C:\Users\berkin.tatlisu\Desktop\newcore\gateway\obj\Debug\netcoreapp2.1\gateway.pdb
