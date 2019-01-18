@@ -12,7 +12,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Ocelot.Middleware;
 using Ocelot.DependencyInjection;
-
+using Ocelot.Provider.Consul;
 
 namespace gateway
 {
@@ -29,7 +29,7 @@ namespace gateway
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
-            services.AddOcelot(Configuration);
+            services.AddOcelot(Configuration).AddConsul();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
